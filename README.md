@@ -1,5 +1,9 @@
 # AccountingOCR
 
+This repository is still under development and is no working example yet!
+
+## format
+
 Datum (1) / Beleg (2) / Konto (3) / BuchText (4) / Betrag (5) / GKonto (6) / StCode (7).
 
 To detect: 1, 2, 4, 5.
